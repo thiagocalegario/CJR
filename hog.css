@@ -46,14 +46,14 @@ body{
 form .usuario .input{
     text-transform: initial;
     margin-bottom: 15px;
-    width: calc(100% / 2 - 20px);
+    width: calc(50% - 20px);
     padding-bottom: 5px;
 }
 .usuario .input input{
     height: 45px;
     width: 100%;
     border-radius: 5px;
-    border: 1px solid rgba(204, 204, 204, 0.24);
+    border: 1px solid rgba(204, 204, 204, 0.877);
     padding-left: 15px;
     font-size: 16px;
 }
